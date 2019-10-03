@@ -1,0 +1,504 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ------ Headings ------ */
+
+.header-name {
+    vertical-align: middle;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    font-size: 35px;
+    font-weight: 300;
+    border: 1px;
+    border-color: #000;
+    color: #787878;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+/* ------ Menu Items ------ */
+
+.nav-menu {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+.nav-menu2 {
+    text-align: center;
+}
+
+.menu-item {
+    font-weight: 300;
+    color: #000;
+}
+
+.menu-item:hover {
+    transform: scale(1.1);
+    transition: all .2s ease-in-out;
+}
+
+
+/* ------ About Me Content ------ */
+
+.personal-image {
+    padding-top: 65px;
+    padding-bottom: 65px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.personal-image-src {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.about-me-heading {
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+.job-title {
+    text-align: left;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.personal-bio {
+    padding-top: 125px;
+    padding-bottom: 100px;
+    text-align: left;
+}
+
+/* ------ Skills ------ */
+
+.skills {
+    padding-top: 15px;
+    background-color: #fff;
+    height: 635px;
+    color: #424242;
+}
+
+.skills div h3 {
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 10px;
+}
+
+.skills-progress {
+    
+}
+
+.software-development {
+    padding-bottom: 10px;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+/* ------ Experience ------ */
+
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 240px;
+    color: #424242;
+}
+
+.experience div h3 {
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+/* ------ Samples ------ */
+
+.samples {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 340px;
+    color: #424242;
+}
+
+.samples div h3 {
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+.sample-image-left {
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.sample-image-right {
+    text-align: left;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+.website1-heading {
+    padding-top: 15px;
+    text-align: right;
+    padding-right: 22px;
+}
+
+.website2-heading {
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 7px;
+}
+
+.sample-image-left a {
+    text-decoration: none;
+    color: #424242;
+}
+
+.sample-image-right a {
+    text-decoration: none;
+    color: #424242;
+}
+
+.sample-image-left h5:hover {
+    color: #0e76a8;
+    transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
+.sample-image-right h5:hover {
+    color: #0e76a8;
+    transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
+/* ------ Contact ------ */
+
+.center-form {
+    text-align: center;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+.contact {
+    padding-top: 15px;
+    background-color: #fff;
+    height: 380px;
+    color: #424242;
+}
+
+.contact div h3 {
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+.contact-h6 {
+    color: #595959;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+/* ------ Footer ------ */
+
+footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f0f0f0;
+}
+
+.download-section {
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cv-pdf i {
+    font-size: 18px;
+    color: #a1a1a1;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.cv-pdf i:hover {
+    color: #c49000;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.linkedin-icon i {
+    font-size: 33px;
+    color: #0e76a8;
+    transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
+.facebook-icon i {
+    font-size: 33px;
+    color: #3b5998;
+    transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
+.linkedin-icon i:hover {
+    color: #c49000;
+}
+
+.facebook-icon i:hover {
+    color: #c49000;
+}
+
+.vertical-line {
+    border-left: 6px solid green;
+    height: 50px;
+}
+
+/* ------ Media Queries ------ */
+
+@media screen and (max-width: 576px) {
+ .navbar-expand-sm {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+.navbar-toggler {
+    color: #474747 !important;
+    font-size: 22px;
+    padding: 5px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.navbar-toggler::selection {
+    color: red;
+    background: yellow;
+}
+
+}
+
+@media screen and (max-width: 768px) {
+ .navbar-expand-sm {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+.skills-progress {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.software-development {
+    padding-left: 30px;
+}
+
+.general-heading {
+    padding-right: 30px;
+}
+
+.samples div h3 {
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 1200px;
+    color: #424242;
+}
+
+}
+
+@media screen and (max-width: 992px) {
+.header-name {
+    padding-bottom: 10px;
+    margin: 0;
+    }
+    
+.navbar-expand-sm {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+    
+.ml-auto-mobile {
+    margin: 0;
+}
+
+.nav-menu {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.personal-bio {
+    padding: 10px 20px 50px 20px;
+    text-align: center;
+}
+
+.personal-image {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.about-me-heading {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.job-title {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 370px;
+    color: #424242;
+}
+
+.sample-image-left {
+    text-align: center;
+}
+
+.sample-image-right {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.website1-heading {
+    padding-top: 15px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.website2-heading {
+    padding-top: 15px;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.samples {
+    height: 590px;
+}
+
+}
+
+/* ------ Experience Section Media Queries ------ */
+
+@media screen and (max-width: 485px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 600px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 485px) and (max-width: 525px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 540px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 525px) and (max-width: 620px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 500px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 620px) and (max-width: 665px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 470px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 665px) and (max-width: 968px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 420px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 968px) and (max-width: 992px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 360px;
+    color: #424242;
+}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1225px) {
+.experience {
+    padding-top: 15px;
+    background-color: #f0f0f0;
+    height: 285px;
+    color: #424242;
+}
+}
+
+/* ------ Samples Section Media Queries ------ */
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+}
