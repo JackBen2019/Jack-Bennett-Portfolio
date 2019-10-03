@@ -15,9 +15,9 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 There are a few features available on my website that will make it easy for recruiters/people who have interest in my services. These have been listed below:
 
-Download CV - In the navigation bar and the footer I have addded options to download my CV. At the click of a button you will be taken to an external page where my CV will be displayed.
+1. **Download CV** - In the navigation bar and the footer I have addded options to download my CV. At the click of a button you will be taken to an external page where my CV will be displayed.
 
-Contact Form - A contact form has been added just above the footer so that people who want to get in contact with me have the option to do so.
+2. **Contact Form** - A contact form has been added just above the footer so that people who want to get in contact with me have the option to do so.
 
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
