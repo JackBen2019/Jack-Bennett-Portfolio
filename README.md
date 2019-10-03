@@ -1,6 +1,7 @@
 # Jack Bennett Portfolio
 
-My website was created as a way 
+This website's sole purpose is to provide a platform for all of my personal work and achievements. It will a source
+of information about me for potential recruiters and others interested in my work and capabilities. 
 
 ## UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
