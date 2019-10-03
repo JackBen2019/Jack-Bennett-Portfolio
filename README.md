@@ -1,6 +1,6 @@
 # Jack Bennett Portfolio
 
-This website's sole purpose is to provide a platform for all of my personal work and achievements. It will a source
+This website's sole purpose is to provide a platform for all of my personal work and achievements. It will be a source
 of information about me for potential recruiters and others interested in my work and capabilities. 
 
 ## UX
