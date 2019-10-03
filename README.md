@@ -12,17 +12,13 @@ As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+There are a few features available on my website that will make it easy for recruiters/people who have interest in my services. These have been listed below:
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Download CV - In the navigation bar and the footer I have addded options to download my CV. At the click of a button you will be taken to an external page where my CV will be displayed.
 
-Features Left to Implement
-Another feature idea
+Contact Form - A contact form has been added just above the footer so that people who want to get in contact with me have the option to do so.
+
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
