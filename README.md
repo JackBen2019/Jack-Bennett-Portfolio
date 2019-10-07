@@ -4,12 +4,19 @@ This website's sole purpose is to provide a platform for all of my personal work
 of information about me for potential recruiters and others interested in my work and capabilities. 
 
 ## UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+The target audience for this website is those looking for more information on me, in regard to my personal work and achievements. Anyone visiting this website will be hoping to see enough information about myself that they are able to come to a verdict as to whether I am someone they would be looking to hire.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+I have done my best to ensure this website is user friendly for all users, regardless of their device. The webpage has been structured so that it will be responsive on any device that you choose to use. An area that has been looked at heavily in regard to UX is the navigation menu. Instead of the menu stacking and taking up a lot of room in smaller devices, I have designed it so that the entire menu will condense into a dropdown which can be opened by clicking the menu link.
+
+One particularly useful part of my website is ability to view my CV at the click of a button. I have added this to make it easy for potential employers to see my full work details instantly.
+
+**User Stories**
+
+Speaking with some users who were testing my website, I asked them what they would like to achieve. They said:
+
+1. As a visitor, I would like to be able to open the website on my iPhone 8
+2. As a potential employer, I would like to be able to download Jack Bennett's CV
 
 ## Features
 
@@ -19,29 +26,25 @@ There are a few features available on my website that will make it easy for recr
 
 2. **Contact Form** - A contact form has been added just above the footer so that people who want to get in contact with me have the option to do so.
 
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+**Technologies Used**
+
+- HTML5
+- CSS3
 
 ## JQuery
 The project uses JQuery to simplify DOM manipulation.
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Referring back to the user stories mentioned above, I needed to test that these were possible and whether my site provided what they wanted to see.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Starting with the first user story "As a visitor, I would like to be able to open the website on my iPhone 8", I essentially needed to make my website responsive for iPhone 8 users. At this point, it didn't make sense to only make my website responsive for a niche market if iPhone 8 users. I may as well go the full distance and make the website responsive for all devices. The way I did this in the code was by using media queries my external CSS stylesheet. To ensure that the CSS I was adding actually worked, I opened my website in a browser, inspected the code and used the Chrome device checker to filter through all the devices and make sure they looked responsive in each device. I can confirm that this was the case and my website appeared to be fully responsive.
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The second user story was posed as a potential employer looking to potentially hire me. This was simply that they wanted to be able to view CV easily and at the touch of a button if possible. To do this I sinmply stored my CV within my website files, linked to it behind some text (with the option to open the CV in a new tab added) that read 'Download CV' and then added that within my navigation bar. I tested this by opening my website in a browser, clicking the link and ensuring it opened in a new tab.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+**Bugs/Issues**
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -54,9 +57,10 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+
+The contact form design was inspired by the contact form designed in the small 'Module 4' project prior to this one.
+
+Website image 1: https://unsplash.com/photos/95YRwf6CNw8
+Website image 2: https://unsplash.com/photos/5fNmWej4tAA
+
+Website created by Jack Bennett
