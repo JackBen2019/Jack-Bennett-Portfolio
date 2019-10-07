@@ -26,6 +26,8 @@ There are a few features available on my website that will make it easy for recr
 
 2. **Contact Form** - A contact form has been added just above the footer so that people who want to get in contact with me have the option to do so.
 
+3. **Sample Projects** - I have added a section where there are 2 sample websites. These are currently blank, but will be populated as and when I build websites in the near future.
+
 **Technologies Used**
 
 - HTML5
