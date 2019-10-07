@@ -61,6 +61,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 The contact form design was inspired by the contact form designed in the small 'Module 4' project prior to this one.
 
 Website image 1: https://unsplash.com/photos/95YRwf6CNw8
+
 Website image 2: https://unsplash.com/photos/5fNmWej4tAA
 
-Website created by Jack Bennett
+Website created by Jack Bennett.
