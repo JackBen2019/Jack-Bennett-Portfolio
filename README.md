@@ -47,14 +47,8 @@ The second user story was posed as a potential employer looking to potentially h
 Responsive navigation bar: The only issue I came across was making the navigation bar responsive in smaller devices. The main issue I had was that I was trying to do it manually without the use of Bootstrap. After some time and effort, I chose to look through the many options Bootstrap provides and I managed to create a navigation bar that turned into a clickable dropdown menu in mobile.
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+My website was built using 'Cloud9' which is a service provided by Amazon. In Cloud9 I regularly saved my website as I was building it, as well as committing my changes to the local repository. Once I had finished building my website, I pushed everything I had built onto GitHub where all my saves/commitments also followed. It has been made public and is available to see for anyone who would like to view it.
 
 ## Credits
 
