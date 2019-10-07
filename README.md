@@ -44,7 +44,7 @@ The second user story was posed as a potential employer looking to potentially h
 
 **Bugs/Issues**
 
-
+Responsive navigation bar: The only issue I came across was making the navigation bar responsive in smaller devices. The main issue I had was that I was trying to do it manually without the use of Bootstrap. After some time and effort, I chose to look through the many options Bootstrap provides and I managed to create a navigation bar that turned into a clickable dropdown menu in mobile.
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
