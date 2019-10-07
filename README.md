@@ -11,6 +11,8 @@ I have done my best to ensure this website is user friendly for all users, regar
 
 One particularly useful part of my website is ability to view my CV at the click of a button. I have added this to make it easy for potential employers to see my full work details instantly.
 
+The wireframe for this website has been added into the GitHib files.
+
 **User Stories**
 
 Speaking with some users who were testing my website, I asked them what they would like to achieve. They said:
